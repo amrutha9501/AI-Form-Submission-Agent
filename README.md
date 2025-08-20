@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💡 AI Form Submission Agent
 
 This project is a conversational AI-powered form submission app built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and the **Google Gemini API**. It allows users to submit their AI agent ideas by either manually filling out a form or by interacting with an AI copilot that guides them step-by-step.
@@ -75,3 +76,6 @@ This project is a conversational AI-powered form submission app built with **Nex
 
 ![App Screenshot](./screenshots/screenshot1.png)
 ![App Screenshot](./screenshots/screenshot2.png)
+=======
+# AI-Form-Submission-Agent
+>>>>>>> 790a4fd5b61a922bc29ff20e0f7aa2b2462ffa6a
